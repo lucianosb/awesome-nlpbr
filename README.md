@@ -15,6 +15,7 @@ Curadoria dos melhores links compartilhados no grupo [nlpbr](https://t.me/nlpbr)
 - [Legal BERTimbau](https://huggingface.co/stjiris/bert-large-portuguese-cased-legal-mlm)
 - [T5 base QA](https://huggingface.co/pierreguillou/t5-base-qa-squad-v1.1-portuguese)
 - [BERTimbau Base](https://huggingface.co/neuralmind/bert-base-portuguese-cased)
+- [Repositório de Word Embeddings do NILC](http://nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
 
 ## Ferramentas
 
