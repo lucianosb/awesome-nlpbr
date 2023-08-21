@@ -7,6 +7,8 @@ Curadoria dos melhores links compartilhados no grupo [nlpbr](https://t.me/nlpbr)
 - [Corpus do Português](https://www.corpusdoportugues.org)
 - [Hate Speech BR](https://github.com/franciellevargas/HateBR)
 - [Análise de Sentimentos](https://www.kaggle.com/datasets/fredericods/ptbr-sentiment-analysis-datasets)
+- [dominguesm/Canarim-Instruct-PTBR-Dataset](https://huggingface.co/datasets/dominguesm/Canarim-Instruct-PTBR-Dataset)
+- [dominguesm/alpaca-data-pt-br](https://huggingface.co/datasets/dominguesm/alpaca-data-pt-br)
 
 ## Modelos pré-treinados
 
@@ -16,6 +18,8 @@ Curadoria dos melhores links compartilhados no grupo [nlpbr](https://t.me/nlpbr)
 - [T5 base QA](https://huggingface.co/pierreguillou/t5-base-qa-squad-v1.1-portuguese)
 - [BERTimbau Base](https://huggingface.co/neuralmind/bert-base-portuguese-cased)
 - [Repositório de Word Embeddings do NILC](http://nilc.icmc.usp.br/nilc/index.php/repositorio-de-word-embeddings-do-nilc)
+- [dominguesm/canarim-7b-vestibulaide](https://huggingface.co/dominguesm/canarim-7b-vestibulaide)
+- [dominguesm/alpaca-lora-ptbr-7b](https://huggingface.co/dominguesm/alpaca-lora-ptbr-7b)
 
 ## Ferramentas
 
