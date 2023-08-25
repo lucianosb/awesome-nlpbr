@@ -29,6 +29,7 @@ Curadoria dos melhores links compartilhados no grupo [nlpbr](https://t.me/nlpbr)
 - [Parsr - Extração de PDFs](https://github.com/axa-group/Parsr)
 - [Lemmatizer](https://portulanclarin.net/workbench/lx-lemmatizer/)
 - [stopwords para uso em jurimetria](https://github.com/jjesusfilho/justop)
+- [Prompts Royale](https://github.com/meistrari/prompts-royale)
 
 
 ## Tutoriais e Cursos
