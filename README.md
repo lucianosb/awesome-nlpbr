@@ -12,6 +12,14 @@ Curadoria dos melhores links compartilhados no grupo [nlpbr](https://t.me/nlpbr)
 
 ## Modelos pré-treinados
 
+- [Open Cabrita-3B](https://huggingface.co/22h/open-cabrita3b)
+- [Open Cabrita-3B Quantizado](https://huggingface.co/lucianosb/open-cabrita3b-GGUF)
+- [Canarim-7B](https://huggingface.co/dominguesm/canarim-7b)
+- [Canarim-7B Quantizado](https://huggingface.co/lucianosb/canarim-7B-GGUF)
+- [Canarim-7B Instruct](https://huggingface.co/dominguesm/Canarim-7B-Instruct)
+- [Canarim-7B Instruct Quantizado](https://huggingface.co/lucianosb/canarim-7B-instruct-GGUF)
+- [Sabiá-7B](https://huggingface.co/maritaca-ai/sabia-7b)
+- [Sabiá-7B Quantizado](https://huggingface.co/lucianosb/sabia-7b-GGUF)
 - [OPT - Alpa](https://opt.alpa.ai)
 - [Bloom](https://huggingface.co/bigscience/bloom)
 - [Legal BERTimbau](https://huggingface.co/stjiris/bert-large-portuguese-cased-legal-mlm)
@@ -34,6 +42,7 @@ Curadoria dos melhores links compartilhados no grupo [nlpbr](https://t.me/nlpbr)
 
 ## Tutoriais e Cursos
 
+- [Livro Processamento de Linguagem Natural - Brasileiras PLN](https://brasileiraspln.com/livro-pln/)
 - [The Transformer Family Version 2.0](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
 
 ## Outros
