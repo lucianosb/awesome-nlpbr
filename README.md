@@ -43,6 +43,7 @@ Curadoria dos melhores links compartilhados no grupo [nlpbr](https://t.me/nlpbr)
 ## Tutoriais e Cursos
 
 - [Livro Processamento de Linguagem Natural - Brasileiras PLN](https://brasileiraspln.com/livro-pln/)
+- [NLPortuguês - Coursera](https://nlportugues.ime.usp.br/)
 - [The Transformer Family Version 2.0](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
 
 ## Outros
