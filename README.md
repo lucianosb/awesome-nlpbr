@@ -31,6 +31,7 @@ Curadoria dos melhores links compartilhados no grupo [nlpbr](https://t.me/nlpbr)
 
 ## Ferramentas
 
+- [🚀 Open Portuguese LLM Leaderboard](https://huggingface.co/spaces/eduagarcia/open_pt_llm_leaderboard)
 - [Doccano Annotation Tool](https://github.com/doccano/doccano)
 - [Label Studio](https://labelstud.io)
 - [Google Colab - Naive Bayes para Análise de Sentimento](https://colab.research.google.com/drive/1q-kxE7Vi9lmvDc7nzfELiJn0qkKuqh2q?usp=sharing)
